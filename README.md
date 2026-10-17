@@ -8,12 +8,14 @@
 
 ## 🚀 Скачать
 
+### Актуальная версия — 7.13.0
+
 | Платформа | Файл | Ссылка |
 |-----------|------|--------|
-| Windows   | `AliLauncher-7.13.0-Setup.exe` | [Скачать](https://github.com/mamadjonovali2012-blip/-/releases/download/ф/AliLauncher-7.13.0-Setup.exe) |
-| Linux     | `AliLauncher-7.13.0-Linux-Setup.tar.gz` | [Скачать](https://github.com/mamadjonovali2012-blip/-/releases/download/r/AliLauncher-7.13.0-Linux-Setup.tar.gz) |
+| Windows   | `AliLauncher-7.13.0-Setup.exe` | [Скачать](https://github.com/mamadjonovali2012-blip/AliLauncher/releases/download/v7.13.0/AliLauncher-7.13.0-Setup.exe) |
+| Linux     | `AliLauncher-7.13.0-Linux-Setup.tar.gz` | [Скачать](https://github.com/mamadjonovali2012-blip/AliLauncher/releases/download/v7.13.0/AliLauncher-7.13.0-Linux-Setup.tar.gz) |
 
-Полный список версий смотрите на [странице релизов](https://github.com/mamadjonovali2012-blip/-/releases).
+**Рекомендуется** устанавливать последнюю версию.
 
 ## ✨ Возможности
 
@@ -28,13 +30,13 @@
 
 ### Windows
 
-1. Скачайте `AliLauncher-7.13.0-Setup.exe`.
+1. Скачайте `AliLauncher-<версия>-Setup.exe`.
 2. Запустите файл и следуйте шагам мастера установки.
 3. Откройте лаунчер, войдите в аккаунт и играйте.
 
 ### Linux
 
-1. Скачайте `AliLauncher-7.13.0-Linux-Setup.tar.gz`.
-2. Распакуйте архив в удобную папку:
+1. Скачайте `AliLauncher-<версия>-Linux-Setup.tar.gz`.
+2. Распакуйте архив:
    ```bash
-   tar -xzvf AliLauncher-7.13.0-Linux-Setup.tar.gz
+   tar -xzvf AliLauncher-<версия>-Linux-Setup.tar.gz
