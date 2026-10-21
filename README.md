@@ -2,18 +2,18 @@
 
 **AliLauncher** — бесплатный лаунчер для игры **Minecraft**, который делает запуск быстрым и удобным: установка, обновление и настройка клиента происходят автоматически.
 
-![Версия](https://img.shields.io/badge/версия-7.13.0-67c23a)
+![Версия](https://img.shields.io/badge/версия-7.15.1-67c23a)
 ![Платформа](https://img.shields.io/badge/платформа-Windows%20%7C%20Linux-blue)
 ![Лицензия](https://img.shields.io/badge/лицензия-бесплатно-green)
 
 ## 🚀 Скачать
 
-### Актуальная версия — 7.13.0
+### Актуальная версия — 7.15.1
 
 | Платформа | Файл | Ссылка |
 |-----------|------|--------|
-| Windows   | `AliLauncher-7.13.0-Setup.exe` | [Скачать](https://github.com/mamadjonovali2012-blip/AliLauncher/releases/download/v7.13.0/AliLauncher-7.13.0-Setup.exe) |
-| Linux     | `AliLauncher-7.13.0-Linux-Setup.tar.gz` | [Скачать](https://github.com/mamadjonovali2012-blip/AliLauncher/releases/download/v7.13.0/AliLauncher-7.13.0-Linux-Setup.tar.gz) |
+| Windows   | `AliLauncher-7.15.1-Setup.exe` | [Скачать](https://github.com/mamadjonovali2012-blip/AliLauncher/releases/download/v7.15.1/AliLauncher-7.15.1-Setup.exe) |
+| Linux     | `AliLauncher-7.15.1-Linux-Setup.tar.gz` | [Скачать](https://github.com/mamadjonovali2012-blip/AliLauncher/releases/download/v7.15.1/AliLauncher-7.15.1-Linux-Setup.tar.gz) |
 
 **Рекомендуется** устанавливать последнюю версию.
 
@@ -55,7 +55,8 @@
 
 | Версия | Windows (.exe) | Linux (.tar.gz) |
 |--------|----------------|-----------------|
-| **7.13.0** *(актуальная)* | [Скачать](https://github.com/mamadjonovali2012-blip/AliLauncher/releases/download/v7.13.0/AliLauncher-7.13.0-Setup.exe) | [Скачать](https://github.com/mamadjonovali2012-blip/AliLauncher/releases/download/v7.13.0/AliLauncher-7.13.0-Linux-Setup.tar.gz) |
+| **7.15.1** *(актуальная)* | [Скачать](https://github.com/mamadjonovali2012-blip/AliLauncher/releases/download/v7.15.1/AliLauncher-7.15.1-Setup.exe) | [Скачать](https://github.com/mamadjonovali2012-blip/AliLauncher/releases/download/v7.15.1/AliLauncher-7.15.1-Linux-Setup.tar.gz) |
+| **7.13.0** | [Скачать](https://github.com/mamadjonovali2012-blip/AliLauncher/releases/download/v7.13.0/AliLauncher-7.13.0-Setup.exe) | [Скачать](https://github.com/mamadjonovali2012-blip/AliLauncher/releases/download/v7.13.0/AliLauncher-7.13.0-Linux-Setup.tar.gz) |
 | 7.12.0 | [Скачать](https://github.com/mamadjonovali2012-blip/AliLauncher/releases/download/v7.12.0/AliLauncher-7.12.0-Setup.exe) | [Скачать](https://github.com/mamadjonovali2012-blip/AliLauncher/releases/download/v7.12.0/AliLauncher-7.12.0-Linux-Setup.tar.gz) |
 | 7.11.0 | [Скачать](https://github.com/mamadjonovali2012-blip/AliLauncher/releases/download/v7.11.0/AliLauncher-7.11.0-Setup.exe) | [Скачать](https://github.com/mamadjonovali2012-blip/AliLauncher/releases/download/v7.11.0/AliLauncher-7.11.0-Linux-Setup.tar.gz) |
 | 7.10.1 | [Скачать](https://github.com/mamadjonovali2012-blip/AliLauncher/releases/download/v7.10.1/AliLauncher-7.10.1-Setup.exe) | [Скачать](https://github.com/mamadjonovali2012-blip/AliLauncher/releases/download/v7.10.1/AliLauncher-7.10.1-Linux-Setup.tar.gz) |
@@ -67,5 +68,5 @@
 ## 🔗 Ссылки
 
 - [Страница релизов](https://github.com/mamadjonovali2012-blip/AliLauncher/releases)
-- [Скачать для Windows](https://github.com/mamadjonovali2012-blip/AliLauncher/releases/download/v7.13.0/AliLauncher-7.13.0-Setup.exe)
-- [Скачать для Linux](https://github.com/mamadjonovali2012-blip/AliLauncher/releases/download/v7.13.0/AliLauncher-7.13.0-Linux-Setup.tar.gz)
+- [Скачать для Windows](https://github.com/mamadjonovali2012-blip/AliLauncher/releases/download/v7.15.1/AliLauncher-7.15.1-Setup.exe)
+- [Скачать для Linux](https://github.com/mamadjonovali2012-blip/AliLauncher/releases/download/v7.15.1/AliLauncher-7.15.1-Linux-Setup.tar.gz)
